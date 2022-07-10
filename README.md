@@ -1,5 +1,5 @@
 # Manifest
-A simple, compact way to represent data tables in a format friendly to both humans and machines, suitable for both file storage and streaming. It has been used in a number of commercial apps.
+A simple, compact way to represent data tables in a format friendly to both humans and machines, suitable for both file storage and streaming. 
 
 <h1><strong>Table Data Notation</strong></h1>
 
