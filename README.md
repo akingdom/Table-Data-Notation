@@ -62,7 +62,7 @@ Format revision:&nbsp;3.3</p>
 
 <p>The aims are&nbsp;for compactness, robustness, readability, editability and simplicity of programming needed to parse it.</p>
 
-<p>For simple data requirements this format is well suited as an alternative to the XML, JSON, tab delimited&nbsp;or comma delimited&nbsp;standards.</p>
+<p>For simple data requirements this format is well suited as an alternative to the XML, JSON&nbsp;or comma delimited&nbsp;standards. It is designed to export cleanly from Excel (etc.) as a tab delimited file.</p>
 
 <p>The format can also be used for marking or embedding data in text documents as a basic&nbsp;alternative to HTML or Markdown.</p>
 
