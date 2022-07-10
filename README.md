@@ -46,8 +46,8 @@ Format revision:&nbsp;3.3</p>
 <p><strong>SOURCE CODE</strong></p>
 
 <ul>
-	<li><a href="tree/main/Objective-C%20Example">Objective-C</a></li>
-	<li><a href="tree/main/C%23%20Example">C#</a></li>
+	<li><a href="Objective-C%20Example">Objective-C</a></li>
+	<li><a href="C%23%20Example">C#</a></li>
 </ul>
 
 <p></p>
