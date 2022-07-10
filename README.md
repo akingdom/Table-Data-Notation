@@ -41,7 +41,7 @@ Format revision:&nbsp;3.2</p>
 <p><br />
 <b>AUTHOR</b></p>
 
-<p>Andrew Kingdom,&nbsp;BNotro Software Development &copy;&nbsp;2017-2019</p>
+<p>Andrew Kingdom,&nbsp;BNotro Software Development &copy;&nbsp;2017-2022</p>
 
 <p></p>
 
