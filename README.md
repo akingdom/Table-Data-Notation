@@ -48,8 +48,8 @@ Format revision:&nbsp;3.3</p>
 <p><strong>SOURCE CODE</strong></p>
 
 <ul>
-	<li><a href="#objc">Objective-C</a></li>
-	<li><a href="#csharp">C#</a></li>
+	<li><a href="https://github.com/akingdom/Manifest/tree/main/Objective-C%20Example">Objective-C</a></li>
+	<li><a href="https://github.com/akingdom/Manifest/tree/main/C%23%20Example">C#</a></li>
 </ul>
 
 <p></p>
