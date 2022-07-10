@@ -43,7 +43,7 @@ Format revision:&nbsp;3.3</p>
 
 <p></p>
 
-<p><strong>SOURCE CODE</strong></p>
+<p><strong>SOURCE CODE EXAMPLES</strong></p>
 
 <ul>
 	<li><a href="Objective-C%20Example">Objective-C</a></li>
