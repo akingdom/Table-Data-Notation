@@ -1,6 +1,3 @@
-# Manifest
-A simple, compact way to represent data tables in a format friendly to both humans and machines, suitable for both file storage and streaming. 
-
 <h1><strong>Table Data Notation</strong></h1>
 
 <p>(BNotro Software Development.)<br />
@@ -10,8 +7,9 @@ Format revision:&nbsp;3.3</p>
 
 <p><strong>SUMMARY</strong></p>
 
-<p>A fast, compact data format alternative to JSON and XML, suited&nbsp;to simple scenarios.</p>
-<p>It is intended to be generally compatible with <a href="https://www.markdownguide.org/extended-syntax/">Markdown</a> tables so long as the column headings are enclosed in square brackets [<em>thus</em>].<sup>3.3</sup></p>
+<p>A simple, compact way to represent data tables in a format friendly to both humans and machines, suitable for both file storage and streaming.</p>
+
+<p>An alternative to JSON and XML, suited&nbsp;to simple scenarios, is also intended to be generally compatible with <a href="https://www.markdownguide.org/extended-syntax/">Markdown</a> tables. <sup>3.3</sup></p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="width:433px; margin-left:40px;" width="435">
 	<tbody>
@@ -48,8 +46,8 @@ Format revision:&nbsp;3.3</p>
 <p><strong>SOURCE CODE</strong></p>
 
 <ul>
-	<li><a href="https://github.com/akingdom/Manifest/tree/main/Objective-C%20Example">Objective-C</a></li>
-	<li><a href="https://github.com/akingdom/Manifest/tree/main/C%23%20Example">C#</a></li>
+	<li><a href="tree/main/Objective-C%20Example">Objective-C</a></li>
+	<li><a href="tree/main/C%23%20Example">C#</a></li>
 </ul>
 
 <p></p>
