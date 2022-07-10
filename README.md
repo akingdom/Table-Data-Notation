@@ -1,17 +1,17 @@
 # Manifest
-A simple, compact way to represent data tables in a format friendly to both humans and machines, suitable for both file storage and streaming.
-
+A simple, compact way to represent data tables in a format friendly to both humans and machines, suitable for both file storage and streaming. It has been used in a number of commercial apps.
 
 <h1><strong>Table Data Notation</strong></h1>
 
 <p>(BNotro Software Development.)<br />
-Format revision:&nbsp;3.2</p>
+Format revision:&nbsp;3.3</p>
 
 <p>License: Creative Commons Attribution​​​​​​</p>
 
 <p><strong>SUMMARY</strong></p>
 
 <p>A fast, compact data format alternative to JSON and XML, suited&nbsp;to simple scenarios.</p>
+<p>It is intended to be generally compatible with <a href="https://www.markdownguide.org/extended-syntax/">Markdown</a> tables so long as the column headings are enclosed in square brackets [<em>thus</em>].<sup>3.3</sup></p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="width:433px; margin-left:40px;" width="435">
 	<tbody>
@@ -90,6 +90,7 @@ Format revision:&nbsp;3.2</p>
 	<li>Recommendation: Header names are only alphanumeric or spaces.</li>
 	<li>Recommendation: There are no reserved header key names -- this is up to the receiver of the assembled/parsed data to build on top of this standard (and separate from it)</li>
 	<li>Recommendation: Any relationships between multiple tables in a file is completely arbitrary and up to the receiver of the assembled/parsed data.</li>
+	<li>Recommendation: For all rows, a prefix of the '|' character and any whitespace should be ignored, when compatibility with Markdown is desired.<sup>3.3</sup></li>
 </ul>
 
 <p></p>
@@ -102,7 +103,7 @@ Format revision:&nbsp;3.2</p>
 
 <p>Deliberately there is no structural nesting, as per HTML: <code>&lt;i&gt;&lt;b&gt;value&lt;/b&gt;&lt;/i&gt;</code></p>
 
-<p>Deliberately there is no equivalent to HTML attributes, thus: <code>&lt;a href=url&gt;</code></p>
+<p>Deliberately there is no equivalent to HTML attributes thusly: <code>&lt;a href=url&gt;</code></p>
 
 <p></p>
 
