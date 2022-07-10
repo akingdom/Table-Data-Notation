@@ -27,8 +27,8 @@ Format revision:&nbsp;3.3</p>
 		</tr>
 		<tr height="21">
 			<td height="21" style="height: 21px; text-align: center;">Pear</td>
-			<td style="text-align: center;">..</td>
-			<td style="text-align: center;">..</td>
+			<td style="text-align: center; color: red;">..</td>
+			<td style="text-align: center; color: red;">..</td>
 		</tr>
 		<tr height="21">
 			<td height="21" style="height: 21px; text-align: center;">Banana</td>
@@ -85,7 +85,7 @@ Format revision:&nbsp;3.3</p>
 	<li>Requirement: Any headers from a previous table are ignored.</li>
 	<li>Requirement: Duplicate headers within a table are ignore (the whole column)</li>
 	<li>Requirement: The delimiter between the first two header cells of a table is assumed to be that used for the entire rest of the table. This is a simple way to allow a range of delimiters to be used.</li>
-	<li>Recommendation: A cell value equal to two period marks only (.. 0x2e2e) is a ditto mark that copies the value of previous value (above) in that column. The ditto mark in a first row is parsed as an empty string. This is fast to type and is not destroyed by Excel, etc.</li>
+	<li>Recommendation: A cell value equal to two period marks only (&nbsp;<span style="color: red;">..</span> 0x2e2e) is a ditto mark that copies the value of previous value (above) in that column. The ditto mark in a first row is parsed as an empty string. This is fast to type and is not destroyed by Excel, etc.</li>
 	<li>Recommendation: Initial rows prior to any header row are to be parsed as a table with an empty string as the implied header key.</li>
 	<li>Recommendation: Header names are only alphanumeric or spaces.</li>
 	<li>Recommendation: There are no reserved header key names -- this is up to the receiver of the assembled/parsed data to build on top of this standard (and separate from it)</li>
