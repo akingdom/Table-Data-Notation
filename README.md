@@ -490,9 +490,3 @@ Format revision:&nbsp;3.3</p>
 
 
 ---
-**File: data.txt**
-
-Make sure data.txt is included in the XCode project resource bundle:
-
-Project Settings > Build Phases > Copy Files, (Resources), + (add file), uncheck 'copy only when installing'.
-
