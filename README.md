@@ -82,7 +82,7 @@ Format revision:&nbsp;3.3</p>
 	<li>Requirement: Excess values are ignored and not read (value columns with no corresponding header)</li>
 	<li>Requirement: Any headers from a previous table are ignored.</li>
 	<li>Requirement: Duplicate headers within a table are ignore (the whole column)</li>
-	<li>Requirement: The delimiter between the first two header cells of a table is assumed to be that used for the entire rest of the table. This is a simple way to work with various delimiters.</li>
+	<li>Requirement: The delimiter between the first two header cells of a table is assumed to be that used for the entire rest of the table. This is a simple way to work with various delimiters. Typically this will be a tab 0x09 or the vertical bar | 0x7C </li>
 	<li>Recommendation: A cell value equal to two period marks only (&nbsp;<span style="color: goldenrod;">..</span> 0x2e2e) is a ditto mark that copies the value of previous value (above) in that column. The ditto mark in a first row is parsed as an empty string. This is fast to type and is not destroyed by Excel, etc.</li>
 	<li>Recommendation: Initial rows prior to any header row are to be parsed as a table with an empty string as the implied header key.</li>
 	<li>Recommendation: Header names are only alphanumeric or spaces.</li>
