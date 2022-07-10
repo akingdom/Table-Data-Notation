@@ -6,7 +6,7 @@ A simple, compact way to represent data tables in a format friendly to both huma
 <p>(BNotro Software Development.)<br />
 Format revision:&nbsp;3.3</p>
 
-<p>License: Creative Commons Attribution​​​​​​</p>
+<p>License: Creative Commons Attribution -or- MIT License​​​​​​</p>
 
 <p><strong>SUMMARY</strong></p>
 
