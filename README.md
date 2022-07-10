@@ -36,20 +36,6 @@ Format revision:&nbsp;3.3</p>
 	</tbody>
 </table>
 
-<p><br />
-<b>AUTHOR</b></p>
-
-<p>Andrew Kingdom,&nbsp;BNotro Software Development &copy;&nbsp;2017-2022</p>
-
-<p></p>
-
-<p><strong>SOURCE CODE EXAMPLES</strong></p>
-
-<ul>
-	<li><a href="Objective-C%20Example">Objective-C</a></li>
-	<li><a href="C%23%20Example">C#</a></li>
-</ul>
-
 <p></p>
 
 <p><strong>INTRODUCTION</strong></p>
@@ -488,3 +474,18 @@ Format revision:&nbsp;3.3</p>
 
 
 ---
+<p><br />
+<b>AUTHOR</b></p>
+
+<p>Andrew Kingdom,&nbsp;BNotro Software Development &copy;&nbsp;2017-2022</p>
+
+<p></p>
+
+<p><strong>SOURCE CODE EXAMPLES</strong></p>
+
+<ul>
+	<li><a href="Objective-C%20Example">Objective-C</a></li>
+	<li><a href="C%23%20Example">C#</a></li>
+</ul>
+
+<p></p>
