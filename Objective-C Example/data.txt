@@ -1,0 +1,4 @@
+[Type]	[Weight]	[Cost]
+Apple	0.1	$0.10
+Pear	..	..
+Banana	0.2	$0.30
